@@ -1,0 +1,197 @@
+# NexaTech Solutions – Employee Handbook 2026
+
+## 1. Company Overview
+
+NexaTech Solutions is a Bengaluru-based technology company established in 2018. The company specializes in Artificial Intelligence, Cloud Computing, Data Engineering, and Enterprise Software Development.
+
+The company currently employs 450 people across three offices: Bengaluru, Hyderabad, and Pune.
+
+Its mission is to help businesses automate repetitive operations using intelligent software systems.
+
+The company operates five major departments:
+- Artificial Intelligence and Machine Learning
+- Software Engineering
+- Data Science and Analytics
+- Human Resources
+- Business Development
+
+## 2. Working Hours and Attendance Policy
+
+The standard working schedule is Monday to Friday, from 9:30 AM to 6:30 PM.
+
+Employees must complete eight working hours daily, excluding a one-hour lunch break.
+
+The company follows a hybrid working model. Employees are required to work from the office at least three days per week. The remaining two days can be worked remotely with manager approval.
+
+Employees arriving more than 15 minutes late must record the reason in the attendance management system.
+
+Three consecutive unapproved absences may result in disciplinary action.
+
+Employees working on weekends to meet project deadlines are eligible for compensatory leave, provided their manager approves the request in advance.
+
+## 3. Leave Policy
+
+Full-time employees receive the following annual leave allowances:
+
+- Casual Leave: 12 days
+- Sick Leave: 10 days
+- Earned Leave: 15 days
+- Public Holidays: As per the official company holiday calendar.
+
+Employees cannot carry forward unused casual leave into the following year.
+
+Unused earned leave can be carried forward up to a maximum of 30 days.
+
+Sick leave exceeding two consecutive working days requires a medical certificate.
+
+Employees must submit casual leave requests at least two working days in advance. Emergency leave can be requested on the same day.
+
+Interns receive one casual leave day for every completed month of their internship. Interns are not eligible for earned leave.
+
+## 4. Internship Program
+
+NexaTech offers internships lasting between three and six months.
+
+The internship program is designed for graduates and final-year students interested in software development, AI, machine learning, and data analytics.
+
+Monthly stipends are determined by the department:
+
+- AI/ML Intern: ₹25,000
+- Software Engineering Intern: ₹22,000
+- Data Analytics Intern: ₹20,000
+- Business Development Intern: ₹15,000
+
+Interns working on exceptional projects may receive a performance bonus of up to ₹10,000 per quarter.
+
+Interns are evaluated every 30 days. Their evaluation considers technical ability, communication, teamwork, attendance, and project contributions.
+
+Interns who achieve a performance score of 85% or higher may be considered for a full-time position. However, conversion is not guaranteed and depends on available vacancies and final management approval.
+
+## 5. Salary and Performance Reviews
+
+Full-time employees receive their salaries on the last working day of every month.
+
+The salary structure consists of:
+- Basic Salary
+- House Rent Allowance
+- Special Allowance
+- Performance Bonus, where applicable
+
+Salary revisions generally occur once every year during April.
+
+Employees must complete at least six months of service to qualify for their first annual performance review.
+
+Performance ratings are classified as follows:
+
+- 90–100: Outstanding
+- 75–89: Exceeds Expectations
+- 60–74: Meets Expectations
+- 40–59: Needs Improvement
+- Below 40: Unsatisfactory
+
+An employee receiving an Outstanding rating may be eligible for a salary increase of 12–18%.
+
+An employee receiving a Needs Improvement rating must undergo a 60-day performance improvement plan.
+
+Salary increases are not automatic and depend on company performance, individual contributions, and management approval.
+
+## 6. Remote Work Policy
+
+Employees can request permanent remote work after completing one year of service.
+
+Permanent remote work requires approval from both the department head and HR.
+
+Employees working remotely must:
+- Maintain availability between 10 AM and 5 PM.
+- Attend scheduled virtual meetings.
+- Use company-approved devices for confidential work.
+- Follow the same information security policies as office employees.
+
+Remote employees are responsible for maintaining a reliable internet connection.
+
+The company provides a monthly internet reimbursement of ₹1,000 to employees approved for permanent remote work.
+
+This reimbursement is not available to employees following the regular hybrid schedule.
+
+## 7. Employee Benefits
+
+Full-time employees receive the following benefits:
+
+1. Medical insurance coverage of ₹5 lakh per year.
+2. Accidental insurance coverage of ₹10 lakh.
+3. Free access to selected online learning platforms.
+4. Annual team-building activities.
+5. Reimbursement of up to ₹15,000 per year for approved professional certifications.
+
+Certification reimbursement requires prior manager approval and proof of successful completion.
+
+Interns receive access to learning platforms but are not eligible for company-sponsored medical insurance or certification reimbursement.
+
+## 8. Resignation and Notice Period
+
+The standard notice period for full-time employees is 60 calendar days.
+
+Employees with less than one year of service may request a reduced notice period of 30 days.
+
+Notice period reductions require HR and department head approval.
+
+Employees must return company equipment, including laptops, access cards, and other assigned assets, before receiving their final settlement.
+
+Final settlement is generally processed within 30 working days after the employee's last working day.
+
+Employees who leave without completing their contractual notice period may be subject to applicable contractual recovery provisions.
+
+## 9. Information Security Policy
+
+Employees must never share company credentials, confidential documents, or customer information with unauthorized individuals.
+
+Company data must only be stored using approved cloud storage platforms.
+
+Employees must enable multi-factor authentication on all company accounts.
+
+Personal USB storage devices are prohibited on company-issued computers unless explicitly authorized by the IT department.
+
+Any suspected data breach must be reported to the IT security team within two hours of discovery.
+
+Employees violating information security policies may face disciplinary action depending on the severity of the incident.
+
+## 10. Learning and Development
+
+NexaTech encourages employees to continuously improve their technical skills.
+
+The company provides an annual learning budget of ₹20,000 to full-time employees who have completed at least six months of service.
+
+This budget can be used for:
+- Technical certifications
+- Professional training programs
+- Approved online courses
+- Technical conferences
+
+The learning budget cannot be converted into cash or transferred to another employee.
+
+Employees must submit reimbursement requests within 30 days of completing the course.
+
+## 11. Employee Referral Program
+
+Employees can refer candidates for open positions through the internal recruitment portal.
+
+Referral bonuses are determined by the position:
+
+- Software Engineer: ₹10,000
+- AI/ML Engineer: ₹20,000
+- Data Scientist: ₹15,000
+- Engineering Manager: ₹30,000
+
+The referral bonus is paid only after the referred candidate completes three months of employment.
+
+Employees cannot receive referral bonuses for candidates they directly supervise or for their own applications.
+
+## 12. Policy Updates
+
+The HR department reviews company policies every January.
+
+Policy changes are communicated through official company email.
+
+The 2026 handbook became effective on January 1, 2026.
+
+In cases where an individual employment contract contains provisions that differ from this handbook, the applicable signed employment contract takes precedence, subject to applicable law.
